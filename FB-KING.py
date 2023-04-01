@@ -81,12 +81,12 @@ for xd in range(10000):
     uaku2=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
     ugen.append(uaku2)
 logo = ("""
-d8888b.  .d8b.  d8888b. db    db d88888b    d88b 
-88  `8D d8' `8b 88  `8D 88    88 88'        `8P' 
-88oodD' 88ooo88 88oobY' Y8    8P 88ooooo     88  
-88~~~   88~~~88 88`8b   `8b  d8' 88~~~~~     88  
-88      88   88 88 `88.  `8bd8'  88.     db. 88  
-88      YP   YP 88   YD    YP    Y88888P Y8888P  
+\033[1;33md8888b.  .d8b.  d8888b. db    db d88888b    d88b 
+\033[1;33m88  `8D d8' `8b 88  `8D 88    88 88'        `8P' 
+\033[1;32m88oodD' 88ooo88 88oobY' Y8    8P 88ooooo     88  
+\033[1;32m88~~~   88~~~88 88`8b   `8b  d8' 88~~~~~     88  
+\033[1;36m88      88   88 88 `88.  `8bd8'  88.     db. 88  
+\033[1;36m88      YP   YP 88   YD    YP    Y88888P Y8888P  
                                                  
 \033[1;91m\033[1;41m\033[1;97m              WELCOME TO PARVEJ TOOLS               \033[;0m\033[1;91m\033[1;92m
 
